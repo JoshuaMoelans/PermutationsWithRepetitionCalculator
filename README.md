@@ -1,7 +1,7 @@
-#Permutations With Repetition calculator
+# Permutations With Repetition calculator
 Made by [Joshua Moelans](https://github.com/joshuamoelans) for the Machines and Computability Course @UAntwerpen
 
-##How to use
+## How to use
 The program takes 2 arguments, in the following order:
 
 - string array || example: (a,b,c)
